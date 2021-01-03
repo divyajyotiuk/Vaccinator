@@ -18,8 +18,8 @@
 ![Screenshot_2018-10-27-08-41-37](https://user-images.githubusercontent.com/30872426/103481728-cbbd1600-4e02-11eb-9a5b-31a828cfa198.png)
 ![Screenshot_2018-10-27-08-41-42](https://user-images.githubusercontent.com/30872426/103481729-cc55ac80-4e02-11eb-97c8-d3701366e7d8.png) -->
 
-<img src="docs/ss1.jpg" width="250"> <img src="docs/ss2.jpg" width="250"> <img src="docs/ss3.jpg" width="250">
-<img src="docs/ss4.jpg" width="250"> <img src="docs/ss5.jpg" width="250"> <img src="docs/ss6.jpg" width="250">
-<img src="docs/ss7.jpg" width="250"> <img src="docs/ss8.jpg" width="250"> <img src="docs/ss9.jpg" width="250">
-<img src="docs/ss10.jpg" width="250"> <img src="docs/ss11.jpg" width="250"> <img src="docs/ss12.jpg" width="250">
-<img src="docs/ss13.jpg" width="250"><img src="docs/ss14.jpg" width="250"> <img src="docs/ss15.jpg" width="250">
+<img src="docs/ss1.png" width="250"> <img src="docs/ss2.png" width="250"> <img src="docs/ss3.png" width="250">
+<img src="docs/ss4.png" width="250"> <img src="docs/ss5.png" width="250"> <img src="docs/ss6.png" width="250">
+<img src="docs/ss7.png" width="250"> <img src="docs/ss8.png" width="250"> <img src="docs/ss9.png" width="250">
+<img src="docs/ss10.png" width="250"> <img src="docs/ss11.png" width="250"> <img src="docs/ss12.png" width="250">
+<img src="docs/ss13.png" width="250"><img src="docs/ss14.png" width="250"> <img src="docs/ss15.png" width="250">
