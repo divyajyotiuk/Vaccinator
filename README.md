@@ -2,7 +2,7 @@
 
 ## Glimpse of the App
 
-![Screenshot_2018-10-26-14-36-05](https://user-images.githubusercontent.com/30872426/103481706-be079080-4e02-11eb-873d-6f8056fe1d80.png)
+<!-- ![Screenshot_2018-10-26-14-36-05](https://user-images.githubusercontent.com/30872426/103481706-be079080-4e02-11eb-873d-6f8056fe1d80.png)
 ![Screenshot_2018-10-26-18-56-49](https://user-images.githubusercontent.com/30872426/103481707-c1028100-4e02-11eb-9164-aafff2974eb3.png)
 ![Screenshot_2018-10-26-18-56-54](https://user-images.githubusercontent.com/30872426/103481709-c233ae00-4e02-11eb-8432-a3556133e1d3.png)
 ![Screenshot_2018-10-26-18-57-06](https://user-images.githubusercontent.com/30872426/103481710-c3fd7180-4e02-11eb-8fb2-5ecb1fd584de.png)
@@ -16,4 +16,10 @@
 ![Screenshot_2018-10-27-08-40-23](https://user-images.githubusercontent.com/30872426/103481724-ca8be900-4e02-11eb-8ba6-72238b282cbb.png)
 ![Screenshot_2018-10-27-08-40-32](https://user-images.githubusercontent.com/30872426/103481726-cb247f80-4e02-11eb-88fb-5a184d230860.png)
 ![Screenshot_2018-10-27-08-41-37](https://user-images.githubusercontent.com/30872426/103481728-cbbd1600-4e02-11eb-9a5b-31a828cfa198.png)
-![Screenshot_2018-10-27-08-41-42](https://user-images.githubusercontent.com/30872426/103481729-cc55ac80-4e02-11eb-97c8-d3701366e7d8.png)
+![Screenshot_2018-10-27-08-41-42](https://user-images.githubusercontent.com/30872426/103481729-cc55ac80-4e02-11eb-97c8-d3701366e7d8.png) -->
+
+<img src="docs/ss1.jpg" width="250"> <img src="docs/ss2.jpg" width="250"> <img src="docs/ss3.jpg" width="250">
+<img src="docs/ss4.jpg" width="250"> <img src="docs/ss5.jpg" width="250"> <img src="docs/ss6.jpg" width="250">
+<img src="docs/ss7.jpg" width="250"> <img src="docs/ss8.jpg" width="250"> <img src="docs/ss9.jpg" width="250">
+<img src="docs/ss10.jpg" width="250"> <img src="docs/ss11.jpg" width="250"> <img src="docs/ss12.jpg" width="250">
+<img src="docs/ss13.jpg" width="250"><img src="docs/ss14.jpg" width="250"> <img src="docs/ss15.jpg" width="250">
